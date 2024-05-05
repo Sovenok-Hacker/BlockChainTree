@@ -1,4 +1,4 @@
-use blockchaintree::tools::{self, check_pow};
+use blockchaintree::tools::check_pow;
 
 #[test]
 fn check_pow_test() {
